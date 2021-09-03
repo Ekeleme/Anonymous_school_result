@@ -1,0 +1,16 @@
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\bin\Debug\net5.0\Anonymous_school_result.exe
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\bin\Debug\net5.0\Anonymous_school_result.deps.json
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\bin\Debug\net5.0\Anonymous_school_result.runtimeconfig.json
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\bin\Debug\net5.0\Anonymous_school_result.runtimeconfig.dev.json
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\bin\Debug\net5.0\Anonymous_school_result.dll
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\bin\Debug\net5.0\ref\Anonymous_school_result.dll
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\bin\Debug\net5.0\Anonymous_school_result.pdb
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\obj\Debug\net5.0\Anonymous_school_result.csprojAssemblyReference.cache
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\obj\Debug\net5.0\Anonymous_school_result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\obj\Debug\net5.0\Anonymous_school_result.AssemblyInfoInputs.cache
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\obj\Debug\net5.0\Anonymous_school_result.AssemblyInfo.cs
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\obj\Debug\net5.0\Anonymous_school_result.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\obj\Debug\net5.0\Anonymous_school_result.dll
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\obj\Debug\net5.0\ref\Anonymous_school_result.dll
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\obj\Debug\net5.0\Anonymous_school_result.pdb
+C:\Users\Daniel Ekeleme\VSprograms\Anonymous_school_result\obj\Debug\net5.0\Anonymous_school_result.genruntimeconfig.cache
